@@ -1,0 +1,6 @@
+/.project
+/.mvn/wrapper/*.jar
+.settings
+target
+.classpath
+bin

@@ -1,0 +1,10 @@
+<target name="2020-12">
+	<locations>
+		<location includeAllPlatforms="false" includeMode="planner" type="InstallableUnit">
+			<unit id="org.eclipse.rcp.feature.group" version="0.0.0"/>
+			<unit id="org.eclipse.equinox.p2.user.ui.feature.group" version="0.0.0"/>
+			<unit id="org.eclipse.equinox.executable.feature.group" version="0.0.0"/>
+			<repository location="http://download.eclipse.org/releases/2020-12"/>
+		</location>
+	</locations>
+</target>

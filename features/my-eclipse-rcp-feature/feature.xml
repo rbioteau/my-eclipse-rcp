@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="my.eclipse.rcp.feature"
+      label="My Eclipse RCP Feature"
+      version="1.0.0.qualifier">
+
+   <includes
+         id="org.eclipse.e4.rcp"
+         version="0.0.0"/>
+
+   <plugin
+         id="my-eclipse-rcp-main"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
