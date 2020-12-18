@@ -8,7 +8,7 @@
 	<name>My Eclipse RCP Main Bundle</name>
 
 	<parent>
-		<version>1.0.0-SNAPSHOT</version>
+		<version>1.1.0-SNAPSHOT</version>
 		<groupId>org.rbioteau</groupId>
 		<artifactId>my-eclipse-rcp-parent</artifactId>
 		<relativePath>../../pom.xml</relativePath>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?pde version="3.5"?>
 
-<product name="my-eclipse-rcp" uid="org.rbioteau.rcp" id="my-eclipse-rcp-main.product" application="org.eclipse.e4.ui.workbench.swt.E4Application" version="1.0.0.qualifier" useFeatures="true" includeLaunchers="true">
+<product name="my-eclipse-rcp" uid="org.rbioteau.rcp" id="my-eclipse-rcp-main.product" application="org.eclipse.e4.ui.workbench.swt.E4Application" version="1.1.0.qualifier" useFeatures="true" includeLaunchers="true">
 
 
    <configIni use="default">
